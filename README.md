@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Enrique</h1>
-- 🌱 linkeding **https://www.linkedin.com/in/enrique-guevara-785bb318b/**
+- 🌱 I’m linkeding learning **https://www.linkedin.com/feed/**
 
-- 👯 I’m looking to collaborate on [marce](https://ramlanding-690c5.firebaseapp.com/index.html)
+- ⚡ I’m looking to collaborate on [Marcelo333444](https://ramlanding-690c5.firebaseapp.com/index.html)
 
 - 🤝 I’m looking for help with [landing page](https://ramlanding-690c5.firebaseapp.com/index.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/enrique guevara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enrique guevara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
